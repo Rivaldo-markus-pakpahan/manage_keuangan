@@ -1,5 +1,11 @@
 ![alt text](https://github.com/Rivaldo-markus-pakpahan/manage_keuangan/blob/main/public/TEMPLATE/Mazer_Temp/assets/pemasukan1.png?raw=true)
 
+![alt text](https://github.com/Rivaldo-markus-pakpahan/manage_keuangan/blob/main/public/TEMPLATE/Mazer_Temp/assets/pengeluaran.png?raw=true)
+
+![alt text](https://github.com/Rivaldo-markus-pakpahan/manage_keuangan/blob/main/public/TEMPLATE/Mazer_Temp/assets/saldo%20pertama.png?raw=true)
+
+
+![alt text](https://github.com/Rivaldo-markus-pakpahan/manage_keuangan/blob/main/public/TEMPLATE/Mazer_Temp/assets/sisa%20saldo.png?raw=true)
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
