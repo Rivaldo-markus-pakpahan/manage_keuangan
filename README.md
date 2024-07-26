@@ -1,3 +1,5 @@
+![alt text](https://github.com/Rivaldo-markus-pakpahan/manage_keuangan/blob/main/public/TEMPLATE/Mazer_Temp/assets/pemasukan1.png?raw=true)
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
